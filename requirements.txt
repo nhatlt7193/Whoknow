@@ -33,7 +33,6 @@ Jinja2==2.11.2
 jupyter==1.0.0
 jupyter-core==4.6.3
 Keras-Preprocessing==1.1.0
-kiwisolver==1.2.0
 mkl-fft==1.1.0
 mkl-random==1.1.1
 mkl-service==2.3.0
