@@ -1,1 +1,1 @@
-web: app:app
+web: FLASK_APP=app.py
