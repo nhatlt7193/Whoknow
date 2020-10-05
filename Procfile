@@ -1,1 +1,1 @@
-web: FLASK_APP=web.py
+web: unicorn app:app
