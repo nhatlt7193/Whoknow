@@ -1,1 +1,1 @@
-web: python app:wsgi
+web: python wsgi:app
